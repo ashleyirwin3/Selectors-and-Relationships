@@ -1,9 +1,9 @@
 .ul1 {
+        display: flex;
+        justify-content: space-around;
+        list-style-type: none;
 	border-width: 1px;
 	border-color: red;
 	border-style: solid;
+
 }
-
-.nav {
-
-	}
